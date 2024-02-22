@@ -24,4 +24,5 @@ This repository contains SaM Solutions team's submission to the O'Reilly's [Arch
   - [Glossary](1.ProblemWalkthrough/5.Glossary.md)
 
 - [Solution Space](./2.%20Solution%20Space/README.md)
-  - [Architecture Characteristics](./1.ProblemWalkthrough/1.BusinessGoals.md)
+  - [Architecture Characteristics](./2.%20Solution%20Space/1.%20Architecture%20Characteristics.md)
+  - [Architecture Style Proposed](2.%20Solution%20Space/2.%20Architecture%20Style%20Proposed.md)
