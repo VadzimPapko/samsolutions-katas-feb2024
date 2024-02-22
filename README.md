@@ -26,3 +26,5 @@ This repository contains SaM Solutions team's submission to the O'Reilly's [Arch
 - [Solution Space](./2.%20Solution%20Space/README.md)
   - [Architecture Characteristics](./2.%20Solution%20Space/1.%20Architecture%20Characteristics.md)
   - [Architecture Style Proposed](2.%20Solution%20Space/2.%20Architecture%20Style%20Proposed.md)
+  - [Diagrams](./3.Diagrams/README.md)
+    - [Data Flow Diagram (DFD)](3.Diagrams/1.DataFlowDiagram.md)
