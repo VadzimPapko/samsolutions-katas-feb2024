@@ -16,8 +16,12 @@ This repository contains SaM Solutions team's submission to the O'Reilly's [Arch
 ## Structure
 
 - [Problem Walkthrough](./1.ProblemWalkthrough/README.md)
-    - [Business Goals](./1.ProblemWalkthrough/1.BusinessGoals.md)
-    - [Requirements](./1.ProblemWalkthrough/2.Requirements.md)
-    - [Vital Signs](1.ProblemWalkthrough/3.VitalSigns.md)
-    - [Actors & Actions](1.ProblemWalkthrough/4.ActorsAndActions.md)
-    - [Glossary](1.ProblemWalkthrough/5.Glossary.md)
+
+  - [Business Goals](./1.ProblemWalkthrough/1.BusinessGoals.md)
+  - [Requirements](./1.ProblemWalkthrough/2.Requirements.md)
+  - [Vital Signs](1.ProblemWalkthrough/3.VitalSigns.md)
+  - [Actors & Actions](1.ProblemWalkthrough/4.ActorsAndActions.md)
+  - [Glossary](1.ProblemWalkthrough/5.Glossary.md)
+
+- [Solution Space](./2.%20Solution%20Space/README.md)
+  - [Architecture Characteristics](./1.ProblemWalkthrough/1.BusinessGoals.md)
