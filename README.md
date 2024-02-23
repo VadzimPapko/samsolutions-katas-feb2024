@@ -30,3 +30,4 @@ This repository contains SaM Solutions team's submission to the O'Reilly's [Arch
     - [Data Flow Diagram (DFD)](./2.%20Solution%20Space/3.Diagrams/1.DataFlowDiagram.md)
     - [MonitorMe System Diagram](./2.%20Solution%20Space/3.Diagrams/2.MonitorMeSystemDiagram.md)
   - [User Stories](./2.%20Solution%20Space/4.User%20Stories.md)
+  - [Architecture Decision Records (ADRs)](./2.%20Solution%20Space/5.ADRs.md)

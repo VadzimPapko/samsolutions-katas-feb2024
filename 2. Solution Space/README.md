@@ -6,6 +6,7 @@
   - [Data Flow Diagram (DFD)](3.Diagrams/1.DataFlowDiagram.md)
   - [MonitorMe System Diagram](3.Diagrams/2.MonitorMeSystemDiagram.md)
 - [User Stories](4.User%20Stories.md)
+- [Architecture Decision Records (ADRs)](5.ADRs.md)
 
 ---
 
